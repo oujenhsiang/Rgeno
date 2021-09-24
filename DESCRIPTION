@@ -1,0 +1,11 @@
+Package: Rgeno
+Type: Package
+Title: Using common genotype tools in R
+Version: 0.1.0
+Author: Mark Ou
+Maintainer: Mark Ou <mail@oumark.me>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
